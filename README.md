@@ -102,7 +102,7 @@ This project is licensed under the [MIT License](LICENSE).
 ```
 📁 startup-sequence-arduino
 ├── README.md
-├── startup_sequence.ino
+├── Code.ino
 └── LICENSE
 ```
 
